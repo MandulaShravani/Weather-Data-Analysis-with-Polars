@@ -26,11 +26,17 @@ Hourly features:
 **Key Tasks Performed**
 
 ✔️ Data Loading & Cleaning
+
 ✔️ Handling Null Values
+
 ✔️ Ranking Radiation Levels
+
 ✔️ Pivot-style Aggregations (Hourly Averages)
+
 ✔️ Daily Summary Report (avg temp, total precipitation, total sunshine)
+
 ✔️ Feels-like Temperature Difference Analysis
+
 ✔️ Sorting & Filtering Insights
 
 **Sample Insights**
